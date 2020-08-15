@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LayoutTry</string>
+
+    <string name="textforme">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci cum,
+        dignissimos eligendi maxime nemo officiis pariatur qui quod similique sint. Esse in iste, modi nulla
+        optio rem sunt totam voluptatem Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aperiam dicta dolore doloribus explicabo
+        impedit inventore ipsam ipsum molestiae nesciunt, praesentium, quisquam, reiciendis soluta.
+        Consequatur esse laboriosam mollitia repudiandae ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci autem consequuntur dicta,
+        distinctio enim illum incidunt iste, maxime modi,
+        molestiae natus non porro provident quae quos reiciendis repudiandae voluptates.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto delectus dolorem doloribus eius eum ex
+        excepturi incidunt maxime molestias non omnis, perspiciatis quam quasi qui reprehenderit sit vero voluptatibus.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat rerum sunt. Aperiam deleniti dolorum eos impedit iure nemo quos rerum tenetur veniam!
+        Dolorum fugit magnam nesciunt, rem sapiente veritatis?
+    </string>
+
+</resources>
